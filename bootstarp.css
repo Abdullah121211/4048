@@ -1,0 +1,41 @@
+body{
+    background-color: #03045e;
+}
+.card-group{
+    gap: 10px;
+    border-radius: 10px;
+}
+
+.card{
+    margin-right: 30px;
+    margin-left: 30px;
+    filter: drop-shadow(1px 2px 30px #ffb703);
+}
+.card-group2{
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 10px;
+}
+ 
+.card-text{
+    color:#283618;
+}
+
+.video1{
+margin-top: 100px;
+margin-bottom: 100px;
+justify-content: center; 
+align-items: center;
+display: flex;
+filter: drop-shadow(4px 4px 40px #fefae0);
+   
+}
+
+footer{
+    background-color:#ffb703;
+}
+
+
+
+ 
